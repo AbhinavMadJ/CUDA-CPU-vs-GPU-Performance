@@ -5,7 +5,7 @@ This mini-project demonstrates the performance difference between CPU and GPU ex
 The function evaluated is:
 
 \[
-y = \sin(x) + \log(x + 1) + \sqrt{x}
+y = sin(x) + log(x + 1) + sqrt{x}
 \]
 
 
